@@ -1,3 +1,7 @@
+# Rahul 
+[resume]([https://drive.google.com/file/d/1fKKXc13qDSNVnuo-hT6JpiA2kmSrxniY/view?usp=sharing])
+
+
 # 🛒 AMAZON CLONE
 
 A responsive **Amazon Clone** built using only **HTML** and **CSS**. This project replicates the basic layout and styling of the Amazon homepage for learning and practice purposes.
